@@ -1,22 +1,20 @@
 # BadAir 💨
-This repository contains information about BadAir – an iPhone app made in SpriteKit, using Xcode.<br>
 
-### About
-BadAir has been designed and developed to alert people about the necessary precautions during periods of smoke and poor air quality, taking place in Manaus, AM.
+### 👾 Sobre o jogo
+- Neste repositório, você irá conhecer um pouco mais sobre o game BadAir – um jogo para iPhone, criado com Swift e SpriteKit, utilizando o Xcode como IDE.
+- O BadAir foi projetado e desenvolvido para alertar as pessoas sobre as precauções necessárias durante períodos de fumaça e má qualidade do ar em Manaus, AM.
+- Jogo submetido para o Swift Student Challenge 2025.
 <br>
 
-## Tools
+## 🛠️ Ferramentas
+- Swift
+- Sprite Kit
 - Xcode
-- Affinity Designer
+- Design Thinking
 - Figma
 <br>
 
-## Development Skills
-- SpriteKit
-- Product Development
-<br>
-
-## Screenshots
+## 📱 Telas do jogo
 <p align="center">
 <img alt="App Icon" width="270" height="250" src="https://github.com/user-attachments/assets/85365050-cdfc-4c56-8f1e-2b8d64e9e143"></p>
 <p align="center">
@@ -28,5 +26,5 @@ BadAir has been designed and developed to alert people about the necessary preca
 <img alt="Project Screenshot" width="250" src="https://github.com/user-attachments/assets/bcc6b8d0-7850-444a-a7dc-a869f0b398b8"></p>
 <br>
 
-## Author
+## 🙋🏻‍♀️ Autor
 Amanda dos Santos Rabelo<br>
