@@ -1,6 +1,6 @@
 # BadAir 💨
 
-### 👾 Sobre o jogo
+## 👾 Sobre o jogo
 - Neste repositório, você irá conhecer um pouco mais sobre o game BadAir – um jogo para iPhone, criado com Swift e SpriteKit, utilizando o Xcode como IDE.
 - O BadAir foi projetado e desenvolvido para alertar as pessoas sobre as precauções necessárias durante períodos de fumaça e má qualidade do ar em Manaus, AM.
 - Jogo submetido para o Swift Student Challenge 2025.
